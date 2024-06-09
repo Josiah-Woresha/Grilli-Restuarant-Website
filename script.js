@@ -1,4 +1,5 @@
 "use strict";
+console.log('Josiah Woresha');
 
 /**
  * preload
